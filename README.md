@@ -21,3 +21,15 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Python
+
+<br>
+<h2>📸 Screenshots</h2>
+
+![image](https://github.com/arm210402/Fake-Reviews-Detection/assets/59504320/d2430303-6455-4948-a513-25b86492d4ca)
+<br>
+
+![image](https://github.com/arm210402/Fake-Reviews-Detection/assets/59504320/2607b4fe-761b-41f3-a653-20e3aa21e5b3)
+<br>
+
+![image](https://github.com/arm210402/Fake-Reviews-Detection/assets/59504320/bdfa16ec-040f-4681-b3c2-eda903304776)
+
